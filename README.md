@@ -8,3 +8,7 @@
 - 基于实践经验，总结和形成AI编程方法论
   
 我们希望通过集合众人的力量，共同推动AI在编程领域的应用，找到更优雅、更高效的解决方案。
+
+使用cursor制作的实用小工具：
+- 文件夹图片对比工具：https://github.com/RaccoonDML/ImagesViewer
+- 法线图实时渲染工具：https://github.com/RaccoonDML/NormalMapper-Live
